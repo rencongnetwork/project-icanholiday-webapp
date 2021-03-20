@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Project : IcanHoliday Web Application</h1>
+Project : IcanHoliday Web Application
 </p>
 
 ## Intro
