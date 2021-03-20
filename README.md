@@ -10,7 +10,7 @@ Features included in this application include:
 - Authentication
 - Dashboard
 
-## Project Board &
+## Project Board & Timeline
 
 Project roadmap and timeline visit : https://app.asana.com/0/1200088975108893/overview
 
