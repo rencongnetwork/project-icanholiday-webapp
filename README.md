@@ -1,5 +1,5 @@
 <div style="text-align: center">
-<h3>Project : IcanHoliday Web Application</h3>
+<h2>IcanHoliday Web Application</h2>
 </div>
 
 ## Intro
