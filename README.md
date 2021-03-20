@@ -1,5 +1,7 @@
-<div style="text-align: center">
-<h2>IcanHoliday Web Application</h2>
+<div style="
+    text-align: center !impoortant;
+">
+<h1>IcanHoliday Web Application</h1>
 </div>
 
 ## Intro
