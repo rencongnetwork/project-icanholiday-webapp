@@ -1,6 +1,6 @@
-<center>
-<h1>Project : IcanHoliday Web Application</h1>
-</center>
+<div style="text-align: center">
+<h3>Project : IcanHoliday Web Application</h3>
+</div>
 
 ## Intro
 IcanHoliday is a travel management web application built with PHP Codeigniter 3 and Bootsrtap 4.
