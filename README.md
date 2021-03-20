@@ -1,8 +1,4 @@
-<div style="
-    text-align: center !impoortant;
-">
-<h1>IcanHoliday Web Application</h1>
-</div>
+<h1 style="text-align: center !impoortant;">IcanHoliday Web Application</h1>
 
 ## Intro
 IcanHoliday is a travel management web application built with PHP Codeigniter 3 and Bootsrtap 4.
