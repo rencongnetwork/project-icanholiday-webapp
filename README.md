@@ -1,8 +1,8 @@
-<p align="center">
-<a >Project : IcanHoliday Web Application</a>
-</p>
+<center>
+<h1>Project : IcanHoliday Web Application</h1>
+</center>
 
-## About : IcanHoliday
+## Intro
 IcanHoliday is a travel management web application built with PHP Codeigniter 3 and Bootsrtap 4.
 
 ## Features
@@ -12,9 +12,9 @@ Features included in this application include:
 - Authentication
 - Dashboard
 
-## Project Board
+## Project Board & Timeline
 
-Project roadmap and timeline visit : [https://app.asana.com/0/1200088975108893/overview] (https://app.asana.com/0/1200088975108893/overview)
+Project roadmap and timeline visit : https://app.asana.com/0/1200088975108893/overview
 
 ## Git Workflow
 
