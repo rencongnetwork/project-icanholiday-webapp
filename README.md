@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Project : IcanHoliday Web Application</h1>
 
 ## Intro
@@ -30,3 +31,6 @@ This workflow employs two parallel long-running branches:
 
 “Develop” is the branch to which all feature branches are merged and where all tests are performed. Only when everything’s been thoroughly checked and fixed it can be merged to the Master.
 
+=======
+# project-icanholiday
+>>>>>>> f23c3d91469a63daa2b482b8b354928c4af44a98
