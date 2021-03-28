@@ -14,24 +14,33 @@
     ?>
 </head>
 
-<body data-layout="horizontal" data-topbar="colored">
-    <div id="layout-wrapper">
-        <?php
-        include '_header.php';
-        ?>
-        <div class="main-content">
-            <?php
-            if (isset($content)) {
-                if (!empty($content)) {
-                    $this->load->view($content);
-                }
-            }
-            ?>
-        </div>
+    <?php
+    include '_header.php';
+    ?>
 
-        <?php include '_footer.php' ?>
+    <?php
+    include '_sidebar.php';
+    ?>
+
+    <?php
+    include '_breadcrumb.php';
+    ?>
+
+    <section class="content">
+        <?php
+        if (isset($content)) {
+            if (!empty($content)) {
+                $this->load->view($content);
+            }
+        }
+        ?>
+    </section>
 
     </div>
+    <!-- /.content-wrapper -->
+
+    <?php include '_footer.php' ?>
+
 
     <?php
     include '_js.php';

@@ -26,7 +26,7 @@ class Dashboard extends CI_Controller
             'content'       => 'app/dashboard',
             'user_profile'  => $user_profile['data']
         ];
-        $this->load->view('_layout/app/template', $data);
+        $this->load->view('_layout/template', $data);
     }
 
 }
