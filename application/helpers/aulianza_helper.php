@@ -6,6 +6,11 @@
 
 defined('BASEPATH') or exit('No direct script access allowed');
 
+function app_url()
+{
+    return '/';
+}
+
 function protocol($type)
 {
     if ($type == 'ssl') {
