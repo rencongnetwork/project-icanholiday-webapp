@@ -6,10 +6,10 @@ $query_builder = TRUE;
 
 $db['local'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'project_icanholiday',
+	'hostname' => 'freedb.tech',
+	'username' => 'freedbtech_icanlogin',
+	'password' => '@Rencong123123',
+	'database' => 'freedbtech_icantester',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
