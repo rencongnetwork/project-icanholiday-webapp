@@ -31,9 +31,8 @@ class Auth extends CI_Controller
                 $data = [
                     'title'     => 'Login',
                     'type'      => 'auth',
-                    'content'   => 'app/auth/login'
                 ];
-                $this->load->view('_layout/template', $data);
+                $this->load->view('app/auth/login', $data);
             } else {
                 $email              = $this->input->post('email');
                 $password           = $this->input->post('password');
